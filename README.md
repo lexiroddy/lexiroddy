@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**lexiroddy/lexiroddy** is a ✨ _special_ ✨ repo# 💫 About Me:
+# 💫 About Me:
 As an eager senior Strategic Communication student minoring in Studio Art, I am passionate about combining creativity with strategy to craft intentional and compelling messages that resonate with audiences. I’m eager to bring the power of storytelling and visual expression into my future career.<br><br>I’m driven by the opportunity to build meaningful relationships—whether that's connecting brands with their audiences or collaborating with creative teams. With my background in communication and art, I’m excited to explore how strategy and creativity intersect to create impactful stories and campaigns. With my upcoming graduation this May, I'm ready to take the next step in my career and contribute to the dynamic field of advertising.
 
 
@@ -18,16 +15,4 @@ As an eager senior Strategic Communication student minoring in Studio Art, I am 
 ---
 [![](https://visitcount.itsvg.in/api?id=lexiroddy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->sitory because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
